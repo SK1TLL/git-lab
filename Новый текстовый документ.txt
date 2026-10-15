@@ -1,5 +1,0 @@
-dotnet new console -n TodoListApp
-cd TodoListApp
-git init
-dotnet build
-echo bin, obj, .vs > .gitignore
